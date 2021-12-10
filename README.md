@@ -21,16 +21,10 @@ Country = "🇮🇳"
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
-![infotechbro Git Stats](https://github-readme-stats.vercel.app/api?username=infotechbro&include_all_commits=true&count_private=true&theme=highcontrast)
+![sʜɪᴠᴀᴍ Git Stats](https://github-readme-stats.vercel.app/api?username=shivam-op&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-### 💻 Latest Activities:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/infotechbro/DaisyXMusic-1/issues/1) in [infotechbro/DaisyXMusic-1](https://github.com/infotechbro/DaisyXMusic-1)
-2. ❗️ Opened issue [#1](https://github.com/infotechbro/SpamBot2/issues/1) in [infotechbro/SpamBot2](https://github.com/infotechbro/SpamBot2)
-<!--END_SECTION:activity-->
 
-</br>
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
